@@ -12,7 +12,7 @@ def input_to_index(num)  # convert user input to index
 end
 
 def move(board, index,"X")
-  
+
 end
 
 # move(baord, input_to_index(num), "X")
