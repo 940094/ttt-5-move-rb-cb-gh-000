@@ -12,7 +12,7 @@ def input_to_index(num)  # convert user input to index
 end
 
 def move(board, index, x = 'X')
-  board[0] = x  # display X in top right od board by modifying the board variable
+  board[index] = x  # display X in top right od board by modifying the board variable
 end
 
 # move(baord, input_to_index(num), "X")
